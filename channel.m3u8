@@ -78,3 +78,6 @@ https://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w698095414_b624112.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfFR2iEOEOCc4jnzwyuirpZoVXx9grTs2SFjOQ=s900-mo-c-c0xffffffff-rj-k-no",WTV Perth
 https://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.473857013.3966/flat,750x1000,075,t.u2.jpg", Worldcup
+#EXTINF:0 tvg-logo="https://deltafonts.com/wp-content/uploads/Fox-Sports-logo.png",Fox Sport FHD
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45425.ts
