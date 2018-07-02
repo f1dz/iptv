@@ -57,7 +57,7 @@ http://122.248.32.234:1935/ch2/myStream/chunklist_w1144793874.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/550000944872562688/UebdcOYT.jpeg",Madani TV
 http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1762398874_b1304123.m3u8
 #EXTINF:-1,TV Thailand Worldcup
-http://chat02-aase.streaming.media.azure.net/b74a2dff-5040-4038-a232-cf19bd8fd059/6c8cd591-4116-4eb3-8344-c68fcbd14e40.ism/QualityLevels(2025000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+http://chat02-aase.streaming.media.azure.net/c6187560-e985-4416-8913-c2da4e375524/b9475305-7332-4fff-9902-be4c488ff6fc.ism/QualityLevels(2025000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
 #EXTINF:-1 tvg-logo="https://tracyanderson.com/wp-content/uploads/2015/03/fox-tv-logo.png",FOX
 https://aliez-stream.gcdn.co/hls/streama69743/index.m3u8
 #EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Fox-Sports-logo.png",Fox Sport
