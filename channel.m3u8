@@ -81,3 +81,5 @@ https://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeas
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.473857013.3966/flat,750x1000,075,t.u2.jpg", Worldcup
 #EXTINF:0 tvg-logo="https://deltafonts.com/wp-content/uploads/Fox-Sports-logo.png",Fox Sport FHD
 http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45425.ts
+#EXTINF:0,SPORTV HD
+http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38476.ts
