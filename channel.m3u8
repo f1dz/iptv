@@ -1,8 +1,5 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/9/9e/20140508104741%21RtvIndonesia.png",RTV
-https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/rajawalitv.stream_all/skrz1j8exe/rajawalitv.stream_576p/chunks.m3u8?nimblesessionid=93845270&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTggODoxMDowMCBBTSZoYXNoX3ZhbHVlPXRJQ0hreVB1MWVzUDlmY2pjVTRvT0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04MzM4NzUzfDEwMy40Ny4xMzQuMzk=
-
-#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png",Net. TV
-https://www.youtube.com/embed/livestream?channel=UC2ZouGm7-2_LRX1TQVbs0_g
+#EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/RTV.jpg",RTV
+https://cdn-livetv2.metube.id/hls/rtv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-id.kompas.tv/webassets/images/365x100web.png",Kompas Tv
 https://stream-01.sg1.dailymotion.com/33/dm/3/x54ozbu/live-3.m3u8
@@ -46,6 +43,9 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w698494905_b384000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jaktv.jpg",JakTV
+https://cdn-livetv2.metube.id/hls/jaktv_480/index.m3u8
+
 #EXTINF:18 tvg-logo="http://pequelia.republica.com/files/2010/11/el-canal-playhouse-disney-se-transforma-en-disney-junior-500x280.jpg",Disney Junior
 https://lhr-1.firstonetv.net:4434/hls/70d77a34de937b4fa617f202abfa18ec/1530424761/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f65366531376662623835653737633065616263306564323064366238373939652e6d3375383f73743d39626d3468625245476e32363443596b3346626a425126653d31353330343339313631.m3u8?time=1530396024992
 
@@ -79,11 +79,17 @@ http://listaccess.me:8080/live/gio/gio123/2336.ts
 #EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1432776307_logo_news.png" ,MNC News
 https://cdn-livetv1.metube.id/hls/mncnews.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jtv_ido.jpg",JTV
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jtv_ido.jpg",jTV
 http://122.248.32.234:1935/ch2/myStream/chunklist_w1144793874.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jtv_ido.jpg",jTV (Additional)
+https://cdn-livetv2.metube.id/hls/jtv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/550000944872562688/UebdcOYT.jpeg",Madani TV
 http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1762398874_b1304123.m3u8
+
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/IDX_Channel.png",IDX Channel
+https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
 
 #EXTINF:-1,TV Thailand Worldcup
 http://chat02-aase.streaming.media.azure.net/c6187560-e985-4416-8913-c2da4e375524/b9475305-7332-4fff-9902-be4c488ff6fc.ism/QualityLevels(2025000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
