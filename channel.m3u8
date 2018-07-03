@@ -98,7 +98,6 @@ http://listaccess.me:8080/live/gio/gio123/2336.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/426px-Al-jazeera-logo.jpg",Aljazera
 https://lhr-1.firstonetv.net:4434/hls/ddc33f68256ffba26e3bfe9443168de5/1530425439/7b226970223a66616c73652c227561223a66616c73652c22726566223a66616c73652c226e6f7473223a66616c73657d/687474703a2f2f616c6a617a656572612d656e672d6170706c652d6c6976652e61646170746976652e6c6576656c332e6e65742f6170706c652f616c6a617a656572612f656e676c6973682f3830302e6d337538.m3u8?time=1530396695093
 
-
 #EXTINF:-1 tvg-name="007" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",Al-Jazeera EN
 https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 
@@ -120,8 +119,8 @@ https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.emotionvideo-tv.com/uploads/thumbs/7a64c84b8-1.jpg" group-title="Live",Quran TV Mekkah
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
 
-#EXTINF:-1,TV Thailand Worldcup
-http://chat02-aase.streaming.media.azure.net/c6187560-e985-4416-8913-c2da4e375524/b9475305-7332-4fff-9902-be4c488ff6fc.ism/QualityLevels(2025000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)
+#EXTINF:-1 tvg-logo="http://www.jessiemay.org.uk/wp-content/uploads/2018/05/fifa-2018-world-cup-logo.jpg",FIFA Worldcup 2018 Russia
+https://d1k63zh2bi7u8e.cloudfront.net/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thefrenchcellar.sg/wp-content/uploads/2016/04/TFC8.jpg",Channel-8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/03.m3u8
