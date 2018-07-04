@@ -269,6 +269,15 @@ http://139.99.38.2:443/hd-history_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.poda.cz/uploads/images/Animal-Planet-HD.png" group-title="Documentary Channel",Animal Planet HD World
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jtocBh4Vyj8/maxresdefault.jpg",NAT GEO WILD
+http://103.242.13.90:5555/udp/239.4.1.62:10000
+
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/07/national-geographic-logo.jpg",NATIONAL GEOGRAPHIC
+http://103.242.13.90:5555/udp/239.4.1.61:10000
+
+#EXTINF:-1 tvg-logo="http://www.gtpl.net/sites/default/files/discoveryworldhd.jpg",DISCOVERY WORLD HD
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+
 #EXTINF:-1 tvg-logo="https://futebolbahiano.org/wp-content/uploads/2017/04/discovery-channel-logo.jpg.pagespeed.ce.nCR5ITKJo_.jpg",Discovery Channel
 https://lhr-1.firstonetv.net:4434/hls/c8bec3e9bed64a5e87ca8ea090e3f9dc/1530428706/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135352e6d6264722e63662f7032702f30373564363639393331353163313738646631656439383430323032643938332e6d3375383f73743d7771484c68423774377775727866555f426a4c674f5126653d31353330343433313036.m3u8?time=1530399969599
 
@@ -314,8 +323,41 @@ http://139.99.38.3:443/hd-kbsworld_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://tracyanderson.com/wp-content/uploads/2015/03/fox-tv-logo.png",FOX
 https://aliez-stream.gcdn.co/hls/streama69743/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/FOX-HD.jpg",FOX HD
+http://103.242.13.90:5555/udp/239.4.1.83:10000
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg",FOX ACTION MOVIE
+http://iptvthai.webhop.biz:443/hd-foxaction_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg",FOX ACTION MOVIES 2
+http://103.242.13.90:5555/udp/239.4.1.72:10000
+
+#EXTINF:-1 tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX MOVIES PREMIER
+http://103.242.13.90:5555/udp/239.4.1.84:10000
+
 #EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Fox-Sports-logo.png",Fox Sport
 https://dbqupfa8o3cpu.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.siriusxm.com/cmds/displayLogo?key=9445&imageType=16",FOX SPORT
+http://103.242.13.90:5555/udp/239.4.1.47:10000
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg",FOX SPORT 2
+http://103.242.13.90:5555/udp/239.4.1.48:10000
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png",FOX SPORT 3 HD
+http://103.242.13.90:5555/udp/239.4.1.44:10000
+
+#EXTINF:-1 tvg-logo="http://pensionalicante.es/wp-content/uploads/2015/10/motogp.png",MOTO GP HD
+http://sg.doohdbox.com:8080/skymotor/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/logo_184.png",TRUE SPORT HD3
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASTRO SPORT
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+#EXTINF:-1 tvg-logo="http://www.azlanshahcup.com/old/images/stories/astro%20arena%20-%20new%20logo.jpg",ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream4television.files.wordpress.com/2014/06/4f663-bein_sports_1hd_couleur.jpg",BeIN Sport 1 XHD 
 http://vismanx1.com:8080/live/sam001/sam001/7101.ts
@@ -424,6 +466,9 @@ http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9125.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 13 HD" tvg-logo="" group-title="BN SPORTS",BEIN 13 HD
 http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9123.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mypanel.tv/picon/tr/beINSports1.tr.png",BEIN 1 HD True Vision
+http://139.99.38.2:443/epl-bein1_1080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 1 true visions thailand
 http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
