@@ -86,14 +86,23 @@ http://api.useetv.com/sc/useeprime/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",Usee Sports HD
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Child" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png",DISNEY CHANNEL HD
+http://58.186.23.61:4022/udp/225.1.2.160:30120 
+
 #EXTINF:18 tvg-logo="http://pequelia.republica.com/files/2010/11/el-canal-playhouse-disney-se-transforma-en-disney-junior-500x280.jpg",Disney Junior
 https://lhr-1.firstonetv.net:4434/hls/70d77a34de937b4fa617f202abfa18ec/1530424761/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f65366531376662623835653737633065616263306564323064366238373939652e6d3375383f73743d39626d3468625245476e32363443596b3346626a425126653d31353330343339313631.m3u8?time=1530396024992
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png",Disney Junior XHD
 http://vismanx1.com:8080/live/sam001/sam001/1576.ts
 
+#EXTINF:-1 tvg-id="Disney Junior" group-title="Child" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png",DISNEY JUNIOR
+http://58.186.23.61:4022/udp/225.1.1.233:30120
+
 #EXTINF:-1 tvg-logo="https://www.babytv.com/images/siteimages/Logo-BabyTV-2018El.png",Baby TV
 http://listaccess.me:8080/live/gio/gio123/2336.ts
+
+#EXTINF:-1 tvg-id="" group-title="Child" tvg-logo="https://www.babytv.com/images/siteimages/Logo-BabyTV-2018El.png",BabyTV HD
+http://58.186.23.61:4022/udp/225.1.2.146:30120
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/426px-Al-jazeera-logo.jpg",Aljazera
 https://lhr-1.firstonetv.net:4434/hls/ddc33f68256ffba26e3bfe9443168de5/1530425439/7b226970223a66616c73652c227561223a66616c73652c22726566223a66616c73652c226e6f7473223a66616c73657d/687474703a2f2f616c6a617a656572612d656e672d6170706c652d6c6976652e61646170746976652e6c6576656c332e6e65742f6170706c652f616c6a617a656572612f656e676c6973682f3830302e6d337538.m3u8?time=1530396695093
@@ -106,6 +115,9 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 
 #EXTINF:-1 tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png",Channel News Asia
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+
+#EXTINF:-1 tvg-id="Asian Food Channel" group-title="Entertainment" tvg-logo="http://logos-download.com/wp-content/uploads/2017/03/AFC_Asian_Food_Channel_logo.png",ASIAN FOOD CHANNEL HD
+http://58.186.23.61:4022/udp/225.1.1.198:30120
 
 #EXTINF:-1 tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/styles/634x349/public/usaepisode_default_image_red_0.jpg",USA Network
 https://lhr-1.firstonetv.net:4434/hls/0626777bdf417900280f56b44f9eba3d/1530428530/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f30653336373433356434626331613839656137353036636630656164623361372e6d3375383f73743d56747962706a5251507a34764d4e78354f5933556a5126653d31353330343432393330.m3u8?time=1530399813401
@@ -310,6 +322,9 @@ http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/32212
 
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",KBSN Life Korea
 http://175.192.77.223:9981/stream/channelid/92239969
+
+#EXTINF:-1 tvg-id="Channel V HD" group-title="Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png",CHANNEL V HD
+http://58.186.23.61:4022/udp/225.1.1.188:30120
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="Hiburan",Showtime HD
 http://80.80.160.168/live/7/live.m3u8
