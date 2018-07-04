@@ -116,7 +116,7 @@ https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
 #EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2012/12/Al-Sunna-Al-Nabawiyah-TV.jpg",Al Sunnah TV
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.emotionvideo-tv.com/uploads/thumbs/7a64c84b8-1.jpg" group-title="Live",Quran TV Mekkah
+#EXTINF:-1 tvg-logo="https://www.emotionvideo-tv.com/uploads/thumbs/7a64c84b8-1.jpg" group-title="Live",Quran TV Mekkah
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jessiemay.org.uk/wp-content/uploads/2018/05/fifa-2018-world-cup-logo.jpg",FIFA Worldcup 2018 Russia
@@ -140,7 +140,7 @@ http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="USA",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1, tvg-logo="http://ftpcontent2.worldnow.com/ktvn/CBS%20Program/CBS_News.jpg" group-title="News Channel",CBS News +
+#EXTINF:-1 tvg-logo="http://ftpcontent2.worldnow.com/ktvn/CBS%20Program/CBS_News.jpg" group-title="News Channel",CBS News +
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="USA",Voice of America
@@ -224,13 +224,13 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6617.1492904872.png" group-title="News Channel",TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="News Channel",CGTN English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="News Channel",CGTN English
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",BoxNation
 http://sg.doohdbox.com:8080/boxnation/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png" group-title="News Channel",MSNBC HD
+#EXTINF:-1 tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png" group-title="News Channel",MSNBC HD
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/PressTV.png" group-title="News Channel",Press TV
@@ -248,7 +248,7 @@ http://175.192.77.223:9981/stream/channelid/839769056
 #EXTINF:-1 tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="News Channel",MBC Korea FHD
 http://175.192.77.223:9981/stream/channelid/1651972952
 
-#EXTINF:-1, tvg-logo="http://speciosa.org/wp-content/uploads/2016/10/photo-2.jpg" group-title="News Live Event",ABC News HD
+#EXTINF:-1 tvg-logo="http://speciosa.org/wp-content/uploads/2016/10/photo-2.jpg" group-title="News Live Event",ABC News HD
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Hiburan",AMC HD
