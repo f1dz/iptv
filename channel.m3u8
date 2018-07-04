@@ -1,507 +1,486 @@
 #EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",Net. HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/RTV.jpg",RTV
-https://cdn-livetv2.metube.id/hls/rtv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/rtv_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://media-id.kompas.tv/webassets/images/365x100web.png",Kompas Tv
-https://stream-01.sg1.dailymotion.com/33/dm/3/x54ozbu/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/33/dm/3/x54ozbu/live-3.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.indonesia.listenradios.com/wp-content/uploads/2016/03/iNews-TV-Streaming-Jakarta.png",iNews TV
-https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w733951965_b1300000_sleng.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w733951965_b1300000_sleng.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png",Indosiar
-http://id2.indostreamingtv.com/live/tv5/index.m3u8
+http://id2.indostreamingtv.com/live/tv5/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png",TV One
-https://cdn-livetv2.metube.id/hls/tvone_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/tvone_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png",Trans7
-https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/0c/20170614105730%21RCTI_tegak.png",RCTI
-https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/3/3d/Global_TV.png",Global TV
-https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://webcms.mncgroup.com/timthumb.php?zc=3&w=180&h=33&src=/app/webroot/files/mnctv/logo.png",MNC TV
-https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png",ANTV
-http://id1.indostreamingtv.com/live/tv4/index.m3u8
+http://id1.indostreamingtv.com/live/tv4/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png",Trans7
-http://id2.indostreamingtv.com/live/tv7/index.m3u8
+http://id2.indostreamingtv.com/live/tv7/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png",Trans7
-http://live1.indostreamingtv.com/f2d63806-bffc-4109-bb4d-42cbe32dab7e
+http://live1.indostreamingtv.com/f2d63806-bffc-4109-bb4d-42cbe32dab7e|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png",TransTV
-https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu.png",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w698494905_b384000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w698494905_b384000_sleng.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jaktv.jpg",JakTV
-https://cdn-livetv2.metube.id/hls/jaktv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/jaktv_480/index.m3u8|User-agent=iPad
 
 
 #EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1432776307_logo_news.png" ,MNC News
-https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jtv_ido.jpg",jTV
-http://122.248.32.234:1935/ch2/myStream/chunklist_w1144793874.m3u8
+http://122.248.32.234:1935/ch2/myStream/chunklist_w1144793874.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jtv_ido.jpg",jTV (Additional)
-https://cdn-livetv2.metube.id/hls/jtv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/jtv_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/550000944872562688/UebdcOYT.jpeg",Madani TV
-http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1762398874_b1304123.m3u8
+http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1762398874_b1304123.m3u8|User-agent=iPad
 
 #EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/IDX_Channel.png",IDX Channel
-https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
+https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/logo%5B1%5D.png" group-title="Local Channel",Inspira TV 
-http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Local Channel",Kitanesia
-http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/chunklist_w1198344535.m3u8
+http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/chunklist_w1198344535.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2016/03/intv.jpg",INTV
-https://e1-hk-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/chunks.m3u8?nimblesessionid=343676544
+https://e1-hk-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/chunks.m3u8?nimblesessionid=343676544|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/a7vjYtCaVJJ-XBjsV7Jeh_6gktc9Hx_1xplvDbKqZkFe_yepVU_xhZKQTsSSD_XjJA=w300",The Indonesia Channel
-http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/chunklist_w2129684744.m3u8
+http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/chunklist_w2129684744.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useeprime_big1.png" group-title="Local Channel",Usee Prime
-http://api.useetv.com/sc/useeprime/index.m3u8
+http://api.useetv.com/sc/useeprime/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",Usee Sports HD
-http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Child" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png",DISNEY CHANNEL HD
-http://58.186.23.61:4022/udp/225.1.2.160:30120 
-
-#EXTINF:18 tvg-logo="http://pequelia.republica.com/files/2010/11/el-canal-playhouse-disney-se-transforma-en-disney-junior-500x280.jpg",Disney Junior
-https://lhr-1.firstonetv.net:4434/hls/70d77a34de937b4fa617f202abfa18ec/1530424761/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f65366531376662623835653737633065616263306564323064366238373939652e6d3375383f73743d39626d3468625245476e32363443596b3346626a425126653d31353330343339313631.m3u8?time=1530396024992
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png",Disney Junior XHD
-http://vismanx1.com:8080/live/sam001/sam001/1576.ts
+http://58.186.23.61:4022/udp/225.1.2.160:30120|User-agent=iPad
 
 #EXTINF:-1 tvg-id="Disney Junior" group-title="Child" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png",DISNEY JUNIOR
-http://58.186.23.61:4022/udp/225.1.1.233:30120
-
-#EXTINF:-1 tvg-logo="https://www.babytv.com/images/siteimages/Logo-BabyTV-2018El.png",Baby TV
-http://listaccess.me:8080/live/gio/gio123/2336.ts
+http://58.186.23.61:4022/udp/225.1.1.233:30120|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" group-title="Child" tvg-logo="https://www.babytv.com/images/siteimages/Logo-BabyTV-2018El.png",BabyTV HD
-http://58.186.23.61:4022/udp/225.1.2.146:30120
+http://58.186.23.61:4022/udp/225.1.2.146:30120|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/426px-Al-jazeera-logo.jpg",Aljazera
-https://lhr-1.firstonetv.net:4434/hls/ddc33f68256ffba26e3bfe9443168de5/1530425439/7b226970223a66616c73652c227561223a66616c73652c22726566223a66616c73652c226e6f7473223a66616c73657d/687474703a2f2f616c6a617a656572612d656e672d6170706c652d6c6976652e61646170746976652e6c6576656c332e6e65742f6170706c652f616c6a617a656572612f656e676c6973682f3830302e6d337538.m3u8?time=1530396695093
+https://lhr-1.firstonetv.net:4434/hls/ddc33f68256ffba26e3bfe9443168de5/1530425439/7b226970223a66616c73652c227561223a66616c73652c22726566223a66616c73652c226e6f7473223a66616c73657d/687474703a2f2f616c6a617a656572612d656e672d6170706c652d6c6976652e61646170746976652e6c6576656c332e6e65742f6170706c652f616c6a617a656572612f656e676c6973682f3830302e6d337538.m3u8?time=1530396695093|User-agent=iPad
 
 #EXTINF:-1 tvg-name="007" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",Al-Jazeera EN
-https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
+https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/682px-Al-jazeera-logo.jpg" group-title="News Channel",Al-Jazeera English
-https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png",Channel News Asia
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="Asian Food Channel" group-title="Entertainment" tvg-logo="http://logos-download.com/wp-content/uploads/2017/03/AFC_Asian_Food_Channel_logo.png",ASIAN FOOD CHANNEL HD
-http://58.186.23.61:4022/udp/225.1.1.198:30120
+http://58.186.23.61:4022/udp/225.1.1.198:30120|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.usanetwork.com/sites/usanetwork/files/styles/634x349/public/usaepisode_default_image_red_0.jpg",USA Network
-https://lhr-1.firstonetv.net:4434/hls/0626777bdf417900280f56b44f9eba3d/1530428530/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f30653336373433356434626331613839656137353036636630656164623361372e6d3375383f73743d56747962706a5251507a34764d4e78354f5933556a5126653d31353330343432393330.m3u8?time=1530399813401
+https://lhr-1.firstonetv.net:4434/hls/0626777bdf417900280f56b44f9eba3d/1530428530/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135342e6d6264722e63662f7032702f30653336373433356434626331613839656137353036636630656164623361372e6d3375383f73743d56747962706a5251507a34764d4e78354f5933556a5126653d31353330343432393330.m3u8?time=1530399813401|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2012/12/Al-Sunna-Al-Nabawiyah-TV.jpg",Al Sunnah TV
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2012/12/Al-Sunna-Al-Nabawiyah-TV.jpg",Al Sunnah TV
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.emotionvideo-tv.com/uploads/thumbs/7a64c84b8-1.jpg" group-title="Live",Quran TV Mekkah
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.jessiemay.org.uk/wp-content/uploads/2018/05/fifa-2018-world-cup-logo.jpg",FIFA Worldcup 2018 Russia
-http://d793qgait0ssc.cloudfront.net/live.m3u8
+http://d793qgait0ssc.cloudfront.net/live.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.thefrenchcellar.sg/wp-content/uploads/2016/04/TFC8.jpg",Channel-8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/03.m3u8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/03.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://smeadcap.com/files/2714/6237/5070/bloomberg.jpg",Bloomberg Asia
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="WORLD NEWS",TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2017/01/abc-logo.jpg" group-title="USA",ABC (EST)
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="USA",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://ftpcontent2.worldnow.com/ktvn/CBS%20Program/CBS_News.jpg" group-title="News Channel",CBS News +
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="USA",Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0d1fd51e980e16909c0bf73a68767a97.jpeg" group-title="SWITZERLAND",TeleBarn
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rtm-images.gluempsapp.com/1024x768/live_stream/1-TV1.jpg" group-title="MALAYSIA",TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.goodfengshui.com/media/k2/items/cache/aaa082d2257ab65aecf61c2340e9c5b9_XL.jpg",Bernama TV
-http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w432472538_b1000000_sleng.m3u8
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w432472538_b1000000_sleng.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.malaysia1news.my/img/logo_raya.png",1News Malaysia
-https://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+https://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://l3.tikilive.com/public/files/shows/119/119489/25947-800x450-FFFFFF.jpg",The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w698095414_b624112.m3u8
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w698095414_b624112.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfFR2iEOEOCc4jnzwyuirpZoVXx9grTs2SFjOQ=s900-mo-c-c0xffffffff-rj-k-no",WTV Perth
-https://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:0 tvg-logo="https://deltafonts.com/wp-content/uploads/Fox-Sports-logo.png",Fox Sport FHD
-http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/45425.ts
-
-#EXTINF:0,SPORTV HD
-http://142.44.215.45:25461/live/6193462259/Pw4qlLDvEY/38476.ts
+https://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_0/chunklist_dvr.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-name="016" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN1.png" group-title="Sport Channel",Sony Ten 1 HD 
-http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/index.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/in/SONYTEN2.png" group-title="Sport Channel",Sony Ten 2 HD 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.firstonetv.net/images/logos/in/SONYTEN3.png" group-title="Sport Channel",Sony Ten 3 HD 
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport Channel",Sony ESPN HD 
-http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/index.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sport Channel",Sony SIX HD 
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/220px-Sony_BBC_Earth.png" group-title="Documentary Channel",SONY BBC Earth HD
-http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/DSport_logo.png" group-title="Sport Channel",DSport HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://tvbd.live/wp-content/uploads/2017/08/ad-sports2.png" group-title="Sport Channel",ad sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2000px-Sky_Sports_logo_2017.svg.png" group-title="Sport Channel",Sky Sports HD
-http://sg.doohdbox.com:8080/skymotor/mono.m3u8
+http://sg.doohdbox.com:8080/skymotor/mono.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://news.sky.com/assets/2018/sky-news-logo.png" group-title="News Channel",Sky News HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",RT News HD
-https://secure-streams.akamaized.net/rt/index2500.m3u8
+https://secure-streams.akamaized.net/rt/index2500.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/800px-Logo_of_C-SPAN.svg.png" group-title="News Channel",C-Span 1
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/800px-Logo_of_C-SPAN.svg.png" group-title="News Channel",C-Span 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/800px-Logo_of_C-SPAN.svg.png" group-title="News Channel",C-Span 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/londonlive-big-logo.png" group-title="News Channel",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6617.1492904872.png" group-title="News Channel",TRT World
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="News Channel",CGTN English
-https://live.cgtn.com/1000/prog_index.m3u8
+https://live.cgtn.com/1000/prog_index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png"" group-title="Sport Channel",BoxNation
-http://sg.doohdbox.com:8080/boxnation/index.m3u8
+http://sg.doohdbox.com:8080/boxnation/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card-twitter.png" group-title="News Channel",MSNBC HD
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/PressTV.png" group-title="News Channel",Press TV
-http://199.101.134.214:1935/live/ngrp:ptven_all/playlist.m3u8
+http://199.101.134.214:1935/live/ngrp:ptven_all/playlist.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1" group-title="News Channel",BBC World News
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/index.m3u8
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://kandl-genres.files.bbci.co.uk/kandl-genres/1231-1/images/meta-images/bbc_blocks.png" group-title="Hiburan",BBC Player Asia
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/22.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News Channel",CNN International FHD
-http://175.192.77.223:9981/stream/channelid/839769056
+http://175.192.77.223:9981/stream/channelid/839769056|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="News Channel",MBC Korea FHD
-http://175.192.77.223:9981/stream/channelid/1651972952
+http://175.192.77.223:9981/stream/channelid/1651972952|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://speciosa.org/wp-content/uploads/2016/10/photo-2.jpg" group-title="News Live Event",ABC News HD
-https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Hiburan",AMC HD
-http://sg.doohdbox.com:8080/amc/index.m3u8
+http://sg.doohdbox.com:8080/amc/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channel",RTд HD (Russia Today Documentary)
-https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+https://secure-streams.akamaized.net/rt-doc/index2500.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary Channel",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://livedoc.cgtn.com/1000d/prog_index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/bg-100-auto-moto-tv.jpg" group-title="Documentary Channel",100Automoto.tv
-http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8
+http://100automoto.tv:1935/bgtv1/Stream1/playlist.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Documentary Channel",History Channel HD
-http://139.99.38.2:443/hd-history_720/index.m3u8
+http://139.99.38.2:443/hd-history_720/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.poda.cz/uploads/images/Animal-Planet-HD.png" group-title="Documentary Channel",Animal Planet HD World
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jtocBh4Vyj8/maxresdefault.jpg",NAT GEO WILD
-http://103.242.13.90:5555/udp/239.4.1.62:10000
+http://103.242.13.90:5555/udp/239.4.1.62:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/07/national-geographic-logo.jpg",NATIONAL GEOGRAPHIC
-http://103.242.13.90:5555/udp/239.4.1.61:10000
+http://103.242.13.90:5555/udp/239.4.1.61:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.gtpl.net/sites/default/files/discoveryworldhd.jpg",DISCOVERY WORLD HD
-http://103.242.13.90:5555/udp/239.4.1.20:10000
+http://103.242.13.90:5555/udp/239.4.1.20:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://futebolbahiano.org/wp-content/uploads/2017/04/discovery-channel-logo.jpg.pagespeed.ce.nCR5ITKJo_.jpg",Discovery Channel
-https://lhr-1.firstonetv.net:4434/hls/c8bec3e9bed64a5e87ca8ea090e3f9dc/1530428706/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135352e6d6264722e63662f7032702f30373564363639393331353163313738646631656439383430323032643938332e6d3375383f73743d7771484c68423774377775727866555f426a4c674f5126653d31353330343433313036.m3u8?time=1530399969599
+https://lhr-1.firstonetv.net:4434/hls/c8bec3e9bed64a5e87ca8ea090e3f9dc/1530428706/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135352e6d6264722e63662f7032702f30373564363639393331353163313738646631656439383430323032643938332e6d3375383f73743d7771484c68423774377775727866555f426a4c674f5126653d31353330343433313036.m3u8?time=1530399969599|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.gtpl.net/sites/default/files/discoveryworldhd.jpg" group-title="Documentary Channel",Discovery HD World
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg" group-title="Documentary Channel",Discovery Sci HD
-http://80.80.160.168/live/9/live.m3u8
+http://80.80.160.168/live/9/live.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Documentary Channel",Travel Channel SD 
-http://80.80.160.168/live/3/live.m3u8
+http://80.80.160.168/live/3/live.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch17.jpg" group-title="Documentary Channel",Outdoor Channel HD
-http://sg.doohdbox.com:8080/Outdoor/mono.m3u8
+http://sg.doohdbox.com:8080/Outdoor/mono.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/2000px-OWN_2011_logo.svg.png" group-title="Hiburan",OWN (Oprah Winfrey Network)
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Hiburan",TLC HD World
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/AXN_HD.png" group-title="Hiburan",AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://csadesign.com/images/tcm_logo1.gif" group-title="Hiburan",TCM (Turner Classic Movies) HD
-http://sg.doohdbox.com:8080/tcm/index.m3u8
+http://sg.doohdbox.com:8080/tcm/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1006524625176743938/TMSDhdUW_400x400.jpg" group-title="Hiburan",LF (Living Foodz) 
-http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/index.m3u8
+http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/common/logo_life.png" group-title="Hiburan",KBSN Life Korea
-http://175.192.77.223:9981/stream/channelid/92239969
+http://175.192.77.223:9981/stream/channelid/92239969|User-agent=iPad
 
 #EXTINF:-1 tvg-id="Channel V HD" group-title="Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png",CHANNEL V HD
-http://58.186.23.61:4022/udp/225.1.1.188:30120
+http://58.186.23.61:4022/udp/225.1.1.188:30120|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" group-title="Hiburan",Showtime HD
-http://80.80.160.168/live/7/live.m3u8
+http://80.80.160.168/live/7/live.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sonyleplex.jpg/220px-Sonyleplex.jpg" group-title="Hiburan",Sony Le PLEX HD
-http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
+http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Hiburan",KBS World HD
-http://139.99.38.3:443/hd-kbsworld_720/index.m3u8
+http://139.99.38.3:443/hd-kbsworld_720/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://tracyanderson.com/wp-content/uploads/2015/03/fox-tv-logo.png",FOX
-https://aliez-stream.gcdn.co/hls/streama69743/index.m3u8
+https://aliez-stream.gcdn.co/hls/streama69743/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/FOX-HD.jpg",FOX HD
-http://103.242.13.90:5555/udp/239.4.1.83:10000
+http://103.242.13.90:5555/udp/239.4.1.83:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg",FOX ACTION MOVIE
-http://iptvthai.webhop.biz:443/hd-foxaction_720/index.m3u8
+http://iptvthai.webhop.biz:443/hd-foxaction_720/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg",FOX ACTION MOVIES 2
-http://103.242.13.90:5555/udp/239.4.1.72:10000
+http://103.242.13.90:5555/udp/239.4.1.72:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX MOVIES PREMIER
-http://103.242.13.90:5555/udp/239.4.1.84:10000
+http://103.242.13.90:5555/udp/239.4.1.84:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Fox-Sports-logo.png",Fox Sport
-https://dbqupfa8o3cpu.cloudfront.net/index_1.m3u8
+https://dbqupfa8o3cpu.cloudfront.net/index_1.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.siriusxm.com/cmds/displayLogo?key=9445&imageType=16",FOX SPORT
-http://103.242.13.90:5555/udp/239.4.1.47:10000
+http://103.242.13.90:5555/udp/239.4.1.47:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg",FOX SPORT 2
-http://103.242.13.90:5555/udp/239.4.1.48:10000
+http://103.242.13.90:5555/udp/239.4.1.48:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png",FOX SPORT 3 HD
-http://103.242.13.90:5555/udp/239.4.1.44:10000
+http://103.242.13.90:5555/udp/239.4.1.44:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://pensionalicante.es/wp-content/uploads/2015/10/motogp.png",MOTO GP HD
-http://sg.doohdbox.com:8080/skymotor/mono.m3u8
+http://sg.doohdbox.com:8080/skymotor/mono.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://tvthumb.dmpcdn.com/data_img/2016/01/logo_184.png",TRUE SPORT HD3
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png",ASTRO SPORT
-http://103.242.13.90:5555/udp/239.4.1.148:10000
+http://103.242.13.90:5555/udp/239.4.1.148:10000|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.azlanshahcup.com/old/images/stories/astro%20arena%20-%20new%20logo.jpg",ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
-#EXTINF:-1 tvg-logo="https://stream4television.files.wordpress.com/2014/06/4f663-bein_sports_1hd_couleur.jpg",BeIN Sport 1 XHD 
-http://vismanx1.com:8080/live/sam001/sam001/7101.ts
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports news" tvg-logo="" group-title="BN SPORTS",beIN Sports News
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/29.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/29.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport News" tvg-logo="" group-title="BN SPORTS",beIN Sport News hd
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/5998.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/5998.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD" tvg-logo="" group-title="BN SPORTS",Bein SportsHD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/17325.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/17325.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS World Cup 1" tvg-logo="" group-title="BN SPORTS",beIN SPORTS World Cup 1
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26825.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26825.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS World Cup 2" tvg-logo="" group-title="BN SPORTS",beIN SPORTS World Cup 2
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26826.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26826.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sports Max 1 HD" tvg-logo="" group-title="BN SPORTS",Bein Sports Max 1 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26830.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26830.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sports Max 2 HD" tvg-logo="" group-title="BN SPORTS",Bein Sports Max 2 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26829.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26829.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sports Max 3 HD" tvg-logo="" group-title="BN SPORTS",Bein Sports Max 3 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26832.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26832.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sports Max 4 HD" tvg-logo="" group-title="BN SPORTS",Bein Sports Max 4 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26831.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/26831.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 1 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 1 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18065.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18065.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 2 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 2 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18060.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18060.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 3 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 3 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18059.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18059.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 4 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 4 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18058.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18058.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 5 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 5 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18057.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18057.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 6 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 6 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18056.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18056.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 7 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 7 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18055.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18055.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 8 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 8 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18054.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18054.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 9 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 9 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18053.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18053.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 10 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 10 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18064.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18064.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 11 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 11 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18063.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18063.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 12 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 12 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18062.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18062.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-ID="" tvg-name=" Bein sports 13 HD" tvg-logo="" group-title="BN SPORTS",Bein sports 13 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18061.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/18061.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 1 HD" tvg-logo="" group-title="BN SPORTS",BEIN 1 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8998.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8998.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 2 HD" tvg-logo="" group-title="BN SPORTS",BEIN 2 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8997.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8997.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 3 HD" tvg-logo="" group-title="BN SPORTS",BEIN 3 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8996.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8996.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 4 HD" tvg-logo="" group-title="BN SPORTS",BEIN 4 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8995.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8995.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 5 HD" tvg-logo="" group-title="BN SPORTS",BEIN 5 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8994.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8994.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 6 HD" tvg-logo="" group-title="BN SPORTS",BEIN 6 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8993.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8993.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 7 HD" tvg-logo="" group-title="BN SPORTS",BEIN 7 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8992.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8992.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 8 HD" tvg-logo="" group-title="BN SPORTS",BEIN 8 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8991.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/8991.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 9 HD" tvg-logo="" group-title="BN SPORTS",BEIN 9 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9124.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9124.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 10 HD" tvg-logo="" group-title="BN SPORTS",BEIN 10 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9127.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9127.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 11 HD" tvg-logo="" group-title="BN SPORTS",BEIN 11 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9126.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9126.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 12 HD" tvg-logo="" group-title="BN SPORTS",BEIN 12 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9125.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9125.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 13 HD" tvg-logo="" group-title="BN SPORTS",BEIN 13 HD
-http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9123.m3u8
+http://bestbuyiptv.link:6969/live/hussiptv3@hotmail.com/Rfzij4115s/9123.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://cdn.mypanel.tv/picon/tr/beINSports1.tr.png",BEIN 1 HD True Vision
-http://139.99.38.2:443/epl-bein1_1080/index.m3u8
+http://139.99.38.2:443/epl-bein1_1080/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 1 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
+http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 2 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein2/chunks.m3u8
+http://main-a.for-our.info:8081/tv11/bein2/chunks.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 3 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein3/chunks.m3u8
+http://main-a.for-our.info:8081/tv11/bein3/chunks.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 4 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein4/chunks.m3u8
+http://main-a.for-our.info:8081/tv11/bein4/chunks.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 5 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein5/chunks.m3u8
+http://main-a.for-our.info:8081/tv11/bein5/chunks.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png"" group-title="Sport Channel",beIN SPORTS 6 true visions thailand
-http://main-a.for-our.info:8081/tv11/bein6/chunks.m3u8
-
-#EXTINF:0,beIN SPORTS HD 1 1080i
-http://vismanx1.com:8080/live/tom07/tom07/7101.ts|User-Agnet="Google Chrome"
+http://main-a.for-our.info:8081/tv11/bein6/chunks.m3u8|User-agent=iPad
