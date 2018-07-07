@@ -53,9 +53,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w698494905_b3840
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jaktv.jpg",JakTV
 https://cdn-livetv2.metube.id/hls/jaktv_480/index.m3u8|User-agent=iPad
 
-
 #EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1432776307_logo_news.png" ,MNC News
 https://cdn-livetv1.metube.id/hls/mncnews.m3u8|User-agent=iPad
+
+#EXTINF:-1 tvg-logo="http://kompek-febui.com/wp-content/uploads/2015/04/binus-tv.jpg" ,BinusTV HD
+rtmp://202.58.181.205/binustv/binustv.flv
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jtv_ido.jpg",jTV
 http://122.248.32.234:1935/ch2/myStream/chunklist_w1144793874.m3u8|User-agent=iPad
@@ -63,10 +65,25 @@ http://122.248.32.234:1935/ch2/myStream/chunklist_w1144793874.m3u8|User-agent=iP
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/jtv_ido.jpg",jTV (Additional)
 https://cdn-livetv2.metube.id/hls/jtv_480/index.m3u8|User-agent=iPad
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1777562598/logoTwit_copy_400x400.jpg",TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pwmu.co/wp-content/uploads/2016/11/TVMU.png",TV Muhammadiyah
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+
+#EXTINF:-1 tvg-logo="http://www.wesalonline.tv/wp-content/uploads/2016/04/logo-wesal-png.png",Wesal TV
+rtmp://119.235.249.60:1935/wesaltv/live
+
+#EXTINF:-1 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-aUPyQ30zDas/WziPHL2uNPI/AAAAAAAADHg/4XvZz-7cDJcSHt7qtADwY1UOjv0fI5X1gCLcBGAs/s1600/annaba-tv.jpg",Annaba TV
+http://stream.asianastream.com:1935/live/ngrp:annaba_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/550000944872562688/UebdcOYT.jpeg",Madani TV
 http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1762398874_b1304123.m3u8|User-agent=iPad
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/IDX_Channel.png",IDX Channel
+#EXTINF:-1 tv-logo="http://www.kpei.co.id/Media/Default/Partners/LOGO%20TIvi%20bursa-%20IDX%20channel.jpg",IDX Channel
 https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/logo%5B1%5D.png" group-title="Local Channel",Inspira TV 
@@ -87,11 +104,17 @@ http://api.useetv.com/sc/useeprime/index.m3u8|User-agent=iPad
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",Usee Sports HD
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8|User-agent=iPad
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d8f712_09388ff4fd88454c962c91f3e7fcde39~mv2.png" group-title="News",VOA Indonesia
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Child" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png",DISNEY CHANNEL HD
 http://58.186.23.61:4022/udp/225.1.2.160:30120|User-agent=iPad
 
-#EXTINF:-1 tvg-id="Disney Junior" group-title="Child" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png",DISNEY JUNIOR
-http://58.186.23.61:4022/udp/225.1.1.233:30120|User-agent=iPad
+#EXTINF:-1 tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png" group-title="Kids Channels",Disney Jr - Disney Jr
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/46.m3u8
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png" group-title="Kids Channels",Disney Jr - Disney Jr
+http://62.210.93.43:80/live?channelId=95&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 
 #EXTINF:-1 tvg-id="" group-title="Child" tvg-logo="https://www.babytv.com/images/siteimages/Logo-BabyTV-2018El.png",BabyTV HD
 http://58.186.23.61:4022/udp/225.1.2.146:30120|User-agent=iPad
