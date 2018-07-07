@@ -35,14 +35,11 @@ https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8|User-agent=iPad
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png",ANTV
 http://id1.indostreamingtv.com/live/tv4/index.m3u8|User-agent=iPad
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png",Trans7
-http://id2.indostreamingtv.com/live/tv7/index.m3u8|User-agent=iPad
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png",Trans7
-http://live1.indostreamingtv.com/f2d63806-bffc-4109-bb4d-42cbe32dab7e|User-agent=iPad
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png",TransTV
 https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8|User-agent=iPad
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-LNg4jdmVISA/VMSzhk-LzKI/AAAAAAAABgc/HfMCpOTUstE/s1600/Trans%2BTV.png",TransTV HD
+http://dmlive.vo.llnwd.net/34/dm/3/x4nwi47/live-3.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu.png",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8|User-agent=iPad
@@ -71,6 +68,15 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/in
 #EXTINF:-1 tvg-logo="https://pwmu.co/wp-content/uploads/2016/11/TVMU.png",TV Muhammadiyah
 rtmp://118.97.183.222:1935/discover/muhammadiyahtv
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/762248683396042752/zV0z9Ujz_400x400.jpg",NU Channel
+http://stream1.ninmedia.tv/live/nin-nuchannel.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JPqOSVGSQhE/maxresdefault_live.jpg",Saling Sapa TV
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.parlemenrakyat.com/foto_berita/96dmi.jpg",DMI Channel
+http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.wesalonline.tv/wp-content/uploads/2016/04/logo-wesal-png.png",Wesal TV
 rtmp://119.235.249.60:1935/wesaltv/live
 
@@ -83,7 +89,7 @@ http://stream.asianastream.com:1935/live/ngrp:annaba_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/550000944872562688/UebdcOYT.jpeg",Madani TV
 http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1762398874_b1304123.m3u8|User-agent=iPad
 
-#EXTINF:-1 tv-logo="http://www.kpei.co.id/Media/Default/Partners/LOGO%20TIvi%20bursa-%20IDX%20channel.jpg",IDX Channel
+#EXTINF:-1 tvg-logo="http://www.kpei.co.id/Media/Default/Partners/LOGO%20TIvi%20bursa-%20IDX%20channel.jpg",IDX Channel
 https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AvizZ95/tipinasional1/master/logo/logo%5B1%5D.png" group-title="Local Channel",Inspira TV 
@@ -91,6 +97,9 @@ http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8|User-agent=
 
 #EXTINF:-1 tvg-logo="http://kitanesia.id/wp-content/uploads/2016/08/kitanesia_logo_new-300x101.png" group-title="Local Channel",Kitanesia
 http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/chunklist_w1198344535.m3u8|User-agent=iPad
+
+#EXTINF:-1 tvg-logo="https://assets-a1.kompasiana.com/items/album/2016/01/26/bmw-tv-webb-56a70d9e3b7b611f06acf005.jpg",Tv BMW
+http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2016/03/intv.jpg",INTV
 https://e1-hk-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/chunks.m3u8?nimblesessionid=343676544|User-agent=iPad
@@ -104,6 +113,9 @@ http://api.useetv.com/sc/useeprime/index.m3u8|User-agent=iPad
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_useesports_big.png" group-title="Sport Channel",Usee Sports HD
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8|User-agent=iPad
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.checkinjakarta.id/images/article/daai-06_parabolakucom.jpg",DAAI TV
+http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d8f712_09388ff4fd88454c962c91f3e7fcde39~mv2.png" group-title="News",VOA Indonesia
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
@@ -115,6 +127,12 @@ http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/46.m3u8
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png" group-title="Kids Channels",Disney Jr - Disney Jr
 http://62.210.93.43:80/live?channelId=95&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+
+#EXTINF:-1 tvg-id="" group-title="Child" tvg-logo="",Kids Diamond
+http://119.235.249.60:1935/kids/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Child" tvg-logo="",Black Diamond
+http://119.235.249.60:1935/bdti/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Child" tvg-logo="https://www.babytv.com/images/siteimages/Logo-BabyTV-2018El.png",BabyTV HD
 http://58.186.23.61:4022/udp/225.1.2.146:30120|User-agent=iPad
@@ -176,7 +194,7 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8|User-agent=iPad
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0d1fd51e980e16909c0bf73a68767a97.jpeg" group-title="SWITZERLAND",TeleBarn
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8|User-agent=iPad
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rtm-images.gluempsapp.com/1024x768/live_stream/1-TV1.jpg" group-title="MALAYSIA",TV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtm-image.glueapi.io/960x640/live_stream/1-TV1.jpg" group-title="MALAYSIA",TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang
