@@ -180,7 +180,7 @@ http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8|User-agen
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jessiemay.org.uk/wp-content/uploads/2018/05/fifa-2018-world-cup-logo.jpg",FIFA Worldcup 2018 Russia
-https://d24isy1zej3ukb.cloudfront.net/index_1.m3u8|User-agent=iPad
+https://alcaline.vipcast.se/hls/ch5allcast2021.m3u8?secure=c2VydmVyX3RpbWU9Ny8xNS8yMDE4IDQ6MzQ6MTIgUE0maGFzaF92YWx1ZT1TcW5tK0VONlpkUlBzUFBFZ0lWd3hBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0xOQ==&expires=1531676052&md5=kOKZDCy3TSpKm71QVISz_A|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://www.thefrenchcellar.sg/wp-content/uploads/2016/04/TFC8.jpg",Channel-8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/03.m3u8|User-agent=iPad
