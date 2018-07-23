@@ -131,6 +131,21 @@ http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d8f712_09388ff4fd88454c962c91f3e7fcde39~mv2.png" group-title="News",VOA Indonesia
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lebihpow.com/storage/channel/23abd9e67d2b815fabc3f038c71df26e.png",Da Vinci Kids
+http://iptv.kabelvisions.com:8888/live/test15/trial01/13.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.biznetnetworks.com/assets/img/bizkids.png",Biznet Kids
+http://iptv.kabelvisions.com:8888/live/test15/trial01/131.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://atvfest.com/sites/atv/files/Nickelodeon-large_0.jpg",Nickelodeon
+http://iptv.kabelvisions.com:8888/live/test15/trial01/124.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://thehypedgeek.com/wp-content/uploads/2017/05/Aniplus-HD.jpg",Aniplus HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/96.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Animax-logo.jpg",AnimaX
+http://iptv.kabelvisions.com:8888/live/test15/trial01/109.m3u8
+
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Child" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png",DISNEY CHANNEL HD
 http://58.186.23.61:4022/udp/225.1.2.160:30120|User-agent=iPad
 
@@ -138,7 +153,7 @@ http://58.186.23.61:4022/udp/225.1.2.160:30120|User-agent=iPad
 http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/46.m3u8
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disney Jr" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/aa/Disney_Junior_HD.png" group-title="Kids Channels",Disney Jr - Disney Jr
-http://62.210.93.43:80/live?channelId=95&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+http://iptv.kabelvisions.com:8888/live/test15/trial01/13.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Child" tvg-logo="",Kids Diamond
 http://119.235.249.60:1935/kids/live/playlist.m3u8
@@ -148,6 +163,36 @@ http://119.235.249.60:1935/bdti/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Child" tvg-logo="https://www.babytv.com/images/siteimages/Logo-BabyTV-2018El.png",BabyTV HD
 http://58.186.23.61:4022/udp/225.1.2.146:30120|User-agent=iPad
+
+#EXTINF:-1 tvg-id="" group-title="Child" tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/07/national-geographic-logo.jpg",Nat Geo Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/114.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/IMG_5358.JPG",Fox Family Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/116.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png",FOX Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/98.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://pbs.twimg.com/profile_images/463211888189272064/Grd6ucS8_400x400.jpeg",FOX Movies Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/132.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png",FOX Life Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/92.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="Movie",Sony ONE Indeonesia HD 
+http://iptv.kabelvisions.com:8888/live/test15/trial01/93.m3u8
+
+#EXTINF:-1 tvg-logo="https://inikpop.com/wp-content/uploads/2017/03/Foto-1-4.jpg" group-title="Movie",SBS Indonesia HD 
+http://iptv.kabelvisions.com:8888/live/test15/trial01/100.m3u8
+
+#EXTINF:-1 tvg-logo="http://truyenhinhso.vn/Plugin/ckeditor/ckfinder/userfiles/images/Picture1.png" group-title="Movie",AXN Indonesia HD 
+http://iptv.kabelvisions.com:8888/live/test15/trial01/130.m3u8
+
+#EXTINF:-1 tvg-logo="https://areaelectro.com/wp-content/uploads/2017/06/233.jpg" group-title="Movie",Celestial Movies Indonesia HD 
+http://iptv.kabelvisions.com:8888/live/test15/trial01/129.m3u8
+
+#EXTINF:-1 tvg-logo="http://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" group-title="Movie",K-Drama Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/122.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/426px-Al-jazeera-logo.jpg",Aljazera
 https://lhr-1.firstonetv.net:4434/hls/ddc33f68256ffba26e3bfe9443168de5/1530425439/7b226970223a66616c73652c227561223a66616c73652c22726566223a66616c73652c226e6f7473223a66616c73657d/687474703a2f2f616c6a617a656572612d656e672d6170706c652d6c6976652e61646170746976652e6c6576656c332e6e65742f6170706c652f616c6a617a656572612f656e676c6973682f3830302e6d337538.m3u8?time=1530396695093|User-agent=iPad
@@ -322,6 +367,9 @@ http://139.99.38.2:443/hd-history_720/index.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="http://www.poda.cz/uploads/images/Animal-Planet-HD.png" group-title="Documentary Channel",Animal Planet HD World
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8|User-agent=iPad
+
+#EXTINF:-1 tvg-logo="http://www.poda.cz/uploads/images/Animal-Planet-HD.png" group-title="Documentary Channel",Animal Planet HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/32.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jtocBh4Vyj8/maxresdefault.jpg",NAT GEO WILD
 http://103.242.13.90:5555/udp/239.4.1.62:10000|User-agent=iPad
