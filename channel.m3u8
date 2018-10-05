@@ -3,10 +3,10 @@
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/RTV.jpg",RTV
-https://cdn-livetv2.metube.id/hls/rtv_480/index.m3u8|User-agent=iPad
+https://tv.rumahstreaming.stream/a0ed27d2fbcc51acrtv/lives/chunks.m3u8|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://media-id.kompas.tv/webassets/images/365x100web.png",Kompas Tv
-https://stream-01.sg1.dailymotion.com/33/dm/3/x54ozbu/live-3.m3u8|User-agent=iPad
+https://www.dailymotion.com/cdn/live/video/x6pz4sa.m3u8?dvr=true&auth=1538748770-2562-ss76g6u1-e006f0a574180a26095b039102d8a2dc&redirect=0|User-agent=iPad
 
 #EXTINF:-1 tvg-logo="https://cimg.antaranews.com/cache/kalteng/730x487/2017/08/20170826Logo_ANTARA.jpg",Antara TV
 http://edge.telin.swiftserve.com/live/LiveOONA/antara-da5a865f3284/playlist.m3u8
