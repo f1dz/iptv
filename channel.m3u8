@@ -3,7 +3,7 @@
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/RTV.jpg",RTV
-https://cdn-livetv2.metube.id/hls/rtv_480/index.m3u8
+https://tv.rumahstreaming.stream/a0ed27d2fbcc51acrtv/lives/chunks.m3u
 
 #EXTINF:-1 tvg-logo="https://media-id.kompas.tv/webassets/images/365x100web.png",Kompas Tv
 https://stream-01.sg1.dailymotion.com/33/dm/3/x54ozbu/live-3.m3u8
